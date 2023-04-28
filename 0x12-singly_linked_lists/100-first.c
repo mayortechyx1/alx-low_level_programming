@@ -2,6 +2,7 @@
 
 /**
  * print_before_main - Prints a message before the main function is executed
+ * alright
  */
 void print_before_main(void)__attribute__((constructor));
 void  print_before_main(void)
